@@ -1,1 +1,0 @@
-# clg_assignment1
